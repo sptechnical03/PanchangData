@@ -1,0 +1,52 @@
+{
+  "2026-01-03": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-01-18": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+  "2026-01-04": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+
+  "2026-02-02": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2026-02-03": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-02-18": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-03-03": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-03-04": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-03-20": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Dark Moon" },
+
+  "2026-04-02": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2026-04-03": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-04-18": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-05-01": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-05-02": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-05-17": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-05-31": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2026-06-01": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-06-15": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-06-30": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-07-01": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-07-15": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Dark Moon" },
+
+  "2026-07-30": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2026-07-31": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-08-14": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-08-29": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-08-30": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-09-13": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-09-28": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2026-09-29": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-10-13": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-10-27": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-10-28": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-11-12": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-11-26": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2026-11-27": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2026-12-12": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2026-12-26": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2026-12-27": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" }
+}

@@ -1,0 +1,61 @@
+{
+  "2025-01-10": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-01-25": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-01-13": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-01-29": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-02-08": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-02-24": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-02-12": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-02-27": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-03-10": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-03-25": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-03-13": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-03-29": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-04-08": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-04-24": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-04-12": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-04-27": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-05-08": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-05-23": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-05-12": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-05-26": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-06-06": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-06-21": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-06-11": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-06-25": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Dark Moon" },
+
+  "2025-07-06": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-07-21": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-07-10": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-07-24": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-08-05": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-08-19": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-08-09": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-08-22": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-09-03": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-09-17": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-09-07": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-09-21": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Dark Moon" },
+
+  "2025-10-03": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-10-17": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-10-06": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-10-21": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-11-01": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-11-15": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-11-05": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-11-20": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" },
+
+  "2025-12-01": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla" },
+  "2025-12-15": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna" },
+  "2025-12-04": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Full Moon" },
+  "2025-12-19": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"New Moon" }
+}
