@@ -1,11 +1,5 @@
 {
-    "2025-01-29": {
-      "type": "Amavasya",
-      "bangla_label": "অমাবস্যা",
-      "moon_phase": "Krishna",
-      "begins": "07:35 PM, Jan 28",
-      "ends": "06:05 PM, Jan 29"
-    },
+    "2025-01-29": {"type": "Amavasya", "bangla_label": "অমাবস্যা","moon_phase": "Krishna", "begins": "07:35 PM, Jan 28", "ends": "06:05 PM, Jan 29"},
     "2025-02-27": {
       "type": "Amavasya",
       "bangla_label": "অমাবস্যা",
