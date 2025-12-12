@@ -1,62 +1,395 @@
 {
-"2025-01-10": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"12:22","end":"10:19" },
- "2025-01-13": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"05:03","end":"03:56" },
- "2025-01-25": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"19:25","end":"20:31" },
- "2025-01-29": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"19:35","end":"18:05" },
+    "2025-01-29": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "07:35 PM, Jan 28",
+      "ends": "06:05 PM, Jan 29"
+    },
+    "2025-02-27": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "08:54 AM, Feb 27",
+      "ends": "06:14 AM, Feb 28"
+    },
+    "2025-02-28": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "08:54 AM, Feb 27",
+      "ends": "06:14 AM, Feb 28"
+    },
+    "2025-03-29": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "07:55 PM, Mar 28",
+      "ends": "04:27 PM, Mar 29"
+    },
+    "2025-04-27": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "04:49 AM, Apr 27",
+      "ends": "01:00 AM, Apr 28"
+    },
+    "2025-05-26": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "12:11 PM, May 26",
+      "ends": "08:31 AM, May 27"
+    },
+    "2025-05-27": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "12:11 PM, May 26",
+      "ends": "08:31 AM, May 27"
+    },
+    "2025-06-25": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "06:59 PM, Jun 24",
+      "ends": "04:00 PM, Jun 25"
+    },
+    "2025-07-24": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "02:28 AM, Jul 24",
+      "ends": "12:40 AM, Jul 25"
+    },
+    "2025-08-22": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "11:55 AM, Aug 22",
+      "ends": "11:35 AM, Aug 23"
+    },
+    "2025-08-23": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "11:55 AM, Aug 22",
+      "ends": "11:35 AM, Aug 23"
+    },
+    "2025-09-21": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "12:16 AM, Sep 21",
+      "ends": "01:23 AM, Sep 22"
+    },
+    "2025-10-21": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "03:44 PM, Oct 20",
+      "ends": "05:54 PM, Oct 21"
+    },
+    "2025-11-19": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "09:43 AM, Nov 19",
+      "ends": "12:16 PM, Nov 20"
+    },
+    "2025-11-20": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "09:43 AM, Nov 19",
+      "ends": "12:16 PM, Nov 20"
+    },
+    "2025-12-19": {
+      "type": "Amavasya",
+      "bangla_label": "অমাবস্যা",
+      "moon_phase": "Krishna",
+      "begins": "04:59 AM, Dec 19",
+      "ends": "07:12 AM, Dec 20"
+    },
+    "2025-01-13": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "05:03 AM, Jan 13",
+      "ends": "03:56 AM, Jan 14"
+    },
+    "2025-02-12": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "06:55 PM, Feb 11",
+      "ends": "07:22 PM, Feb 12"
+    },
+    "2025-03-13": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "10:35 AM, Mar 13",
+      "ends": "12:23 PM, Mar 14"
+    },
+    "2025-03-14": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "10:35 AM, Mar 13",
+      "ends": "12:23 PM, Mar 14"
+    },
+    "2025-04-12": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "03:21 AM, Apr 12",
+      "ends": "05:51 AM, Apr 13"
+    },
+    "2025-05-12": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "08:01 PM, May 11",
+      "ends": "10:25 PM, May 12"
+    },
+    "2025-06-10": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "11:35 AM, Jun 10",
+      "ends": "01:13 PM, Jun 11"
+    },
+    "2025-06-11": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "11:35 AM, Jun 10",
+      "ends": "01:13 PM, Jun 11"
+    },
+    "2025-07-10": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "01:36 AM, Jul 10",
+      "ends": "02:06 AM, Jul 11"
+    },
+    "2025-08-09": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "02:12 PM, Aug 08",
+      "ends": "01:24 PM, Aug 09"
+    },
+    "2025-09-07": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "01:41 AM, Sep 07",
+      "ends": "11:38 PM, Sep 07"
+    },
+    "2025-10-06": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "12:23 PM, Oct 06",
+      "ends": "09:16 AM, Oct 07"
+    },
+    "2025-10-07": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "12:23 PM, Oct 06",
+      "ends": "09:16 AM, Oct 07"
+    },
+    "2025-11-05": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "10:36 PM, Nov 04",
+      "ends": "06:48 PM, Nov 05"
+    },
+    "2025-12-04": {
+      "type": "Purnima",
+      "bangla_label": "পূর্ণিমা",
+      "moon_phase": "Shukla",
+      "begins": "08:37 AM, Dec 04",
+      "ends": "04:43 AM, Dec 05"
+    },
+    "2025-01-10": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "12:22 PM, Jan 09",
+      "ends": "10:19 AM, Jan 10"
+    },
+    "2025-01-25": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "07:25 PM, Jan 24",
+      "ends": "08:31 PM, Jan 25"
+    },
+    "2025-02-08": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "09:26 PM, Feb 07",
+      "ends": "08:15 PM, Feb 08"
+    },
+    "2025-02-24": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "01:55 PM, Feb 23",
+      "ends": "01:44 PM, Feb 24"
+    },
+    "2025-03-10": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "07:45 AM, Mar 09",
+      "ends": "07:44 AM, Mar 10"
+    },
+    "2025-03-25": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "05:05 AM, Mar 25",
+      "ends": "03:45 AM, Mar 26"
+    },
+    "2025-04-08": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "08:00 PM, Apr 07",
+      "ends": "09:12 PM, Apr 08"
+    },
+    "2025-04-24": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "04:43 PM, Apr 23",
+      "ends": "02:32 PM, Apr 24"
+    },
+    "2025-05-08": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "10:19 AM, May 07",
+      "ends": "12:29 PM, May 08"
+    },
+    "2025-05-23": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "01:12 AM, May 23",
+      "ends": "10:29 PM, May 23"
+    },
+    "2025-06-07": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "02:15 AM, Jun 06",
+      "ends": "04:47 AM, Jun 07"
+    },
+    "2025-06-21": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "07:18 AM, Jun 21",
+      "ends": "04:27 AM, Jun 22"
+    },
+    "2025-07-06": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "06:58 PM, Jul 05",
+      "ends": "09:14 PM, Jul 06"
+    },
+    "2025-07-21": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "12:12 PM, Jul 20",
+      "ends": "09:38 AM, Jul 21"
+    },
+    "2025-08-05": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "11:41 AM, Aug 04",
+      "ends": "01:12 PM, Aug 05"
+    },
+    "2025-08-19": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "05:22 PM, Aug 18",
+      "ends": "03:32 PM, Aug 19"
+    },
+    "2025-09-03": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "03:53 AM, Sep 03",
+      "ends": "04:21 AM, Sep 04"
+    },
+    "2025-09-17": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "12:21 AM, Sep 17",
+      "ends": "11:39 PM, Sep 17"
+    },
+    "2025-10-03": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "07:10 PM, Oct 02",
+      "ends": "06:32 PM, Oct 03"
+    },
+    "2025-10-17": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "10:35 AM, Oct 16",
+      "ends": "11:12 AM, Oct 17"
+    },
+    "2025-11-01": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "09:11 AM, Nov 01",
+      "ends": "07:31 AM, Nov 02"
+    },
+    "2025-11-15": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "12:49 AM, Nov 15",
+      "ends": "02:37 AM, Nov 16"
+    },
+    "2025-12-01": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "09:29 PM, Nov 30",
+      "ends": "07:01 PM, Dec 01"
+    },
+    "2025-12-15": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Krishna",
+      "begins": "06:49 PM, Dec 14",
+      "ends": "09:19 PM, Dec 15"
+    },
+    "2025-12-30": {
+      "type": "Ekadashi",
+      "bangla_label": "একাদশী",
+      "moon_phase": "Shukla",
+      "begins": "07:50 AM, Dec 30",
+      "ends": "05:00 AM, Dec 31"
+    }
+  }
 
- "2025-02-08": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"21:26","end":"20:15" },
- "2025-02-12": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"18:55","end":"19:22" },
- "2025-02-24": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"13:55","end":"13:44" },
- "2025-02-27": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"08:54","end":"06:14" },
-
- "2025-03-10": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"07:45","end":"07:44" },
- "2025-03-13": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"10:35","end":"12:23" },
- "2025-03-25": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"05:05","end":"03:45" },
- "2025-03-29": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"19:55","end":"16:27" },
-
- "2025-04-08": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"20:00","end":"21:12" },
- "2025-04-12": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"03:21","end":"05:51" },
- "2025-04-24": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"16:43","end":"14:32" },
- "2025-04-27": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"04:49","end":"01:00" },
-
- "2025-05-08": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"10:19","end":"12:29" },
- "2025-05-12": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"20:01","end":"22:25" },
- "2025-05-23": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"01:12","end":"22:29" },
- "2025-05-26": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"12:11","end":"08:31" },
-
- "2025-06-07": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"02:15","end":"04:47" },
- "2025-06-10": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"11:35","end":"13:13" },
- "2025-06-21": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"07:18","end":"04:27" },
- "2025-06-25": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"18:59","end":"16:00" },
-
- "2025-07-06": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"18:58","end":"21:14" },
- "2025-07-10": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"01:36","end":"02:06" },
- "2025-07-21": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"12:12","end":"09:38" },
- "2025-07-24": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"02:28","end":"00:40" },
-
- "2025-08-05": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"11:41","end":"13:12" },
- "2025-08-09": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"14:12","end":"13:24" },
- "2025-08-19": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"17:22","end":"15:32" },
- "2025-08-22": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"11:55","end":"11:35" },
-
- "2025-09-03": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"03:53","end":"04:21" },
- "2025-09-07": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"01:41","end":"23:38" },
- "2025-09-17": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"00:21","end":"23:39" },
- "2025-09-21": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"00:16","end":"01:23" },
-
- "2025-10-03": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"19:10","end":"18:32" },
- "2025-10-06": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"12:23","end":"09:16" },
- "2025-10-17": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"10:35","end":"11:12" },
- "2025-10-21": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"15:44","end":"17:54" },
-
- "2025-11-01": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"09:11","end":"07:31" },
- "2025-11-05": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"22:36","end":"18:48" },
- "2025-11-15": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"00:49","end":"02:37" },
- "2025-11-19": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"09:43","end":"12:16" },
-
- "2025-12-01": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"21:29","end":"19:01" },
- "2025-12-04": { "type":"Purnima","bangla_label":"পূর্ণিমা","moon_phase":"Shukla","start":"08:37","end":"04:43" },
- "2025-12-15": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Krishna","start":"18:49","end":"21:19" },
- "2025-12-19": { "type":"Amavasya","bangla_label":"অমাবস্যা","moon_phase":"Krishna","start":"04:59","end":"07:12" },
- "2025-12-30": { "type":"Ekadashi","bangla_label":"একাদশী","moon_phase":"Shukla","start":"07:50","end":"05:00" }
-}
